@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 Homework
 
 ### Project title:
 Terrible Joke Slackbot 🤖
